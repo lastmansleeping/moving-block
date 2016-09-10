@@ -1,3 +1,5 @@
 #Computer Graphics course project
-* Created a shape and realized it's various degrees of freedom using the C OpenGL library.
-* Reaction to user input events were also incorporated into the application.
+* Created a 2D object and realized its various degrees of freedom.
+* Incorporated reaction events to user based stimulus through key presses.
+* Built the application by implementing the various computer graphics algorithms from scratch.
+* Tech Stack - C, OpenGL library
